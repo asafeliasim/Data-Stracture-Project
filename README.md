@@ -1,5 +1,5 @@
 # DataStractureProject
-Written with: Asaf Eliasim.
+Written with: Arik Regev.
 
 Written in: C++.
 
